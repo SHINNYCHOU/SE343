@@ -1,0 +1,3 @@
+grant {
+    permission PathCheckPermission "E:\third","permit";
+};
